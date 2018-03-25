@@ -3,6 +3,6 @@
 
 ## 학습링크 
 
-- https://github.com/davidmgkang/MLstudy2018.git
+- https://hunkim.github.io/ml/
 
 - https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUmㅍ
