@@ -9,7 +9,7 @@
 
 ## 학습링크 
 - 김성훈 교수님 모두의 딥러닝 시즌1
-    - https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUmㅍ
+    - https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm
 
 - 김성훈 교수님 강의자료&참고자료 모음.
     - https://hunkim.github.io/ml/
