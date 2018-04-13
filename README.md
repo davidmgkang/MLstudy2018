@@ -17,4 +17,4 @@
 - [머신러닝 단기집중과정](https://developers.google.com/machine-learning/crash-course/) 
     - 텐서플로우 API 사용 
     - Google의 실용적인 머신러닝 속성 입문 과정
- 
+- http://www.whydsp.org/284
